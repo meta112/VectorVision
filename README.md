@@ -8,11 +8,11 @@ This project leverages a **YOLO-based machine vision system** to recognize matri
 - **Matrix Detection**: Recognizes matrices using a machine vision system.
 - **Matrix Arithmetic**: Performs addition, determinant, and other operations on detected matrices.
 - **Custom Dataset**: Utilizes custom datasets derived from **MNIST** for specialized training.
-- **YOLO-based Model**: Employs the YOLO (You Only Look Once) object detection algorithm.
+- **YOLO-based Model**: Employs the YOLOv8 (You Only Look Once) object detection algorithm.
 
 ## Technologies Used
 
-- **YOLO**: A state-of-the-art machine vision system for fast object detection.
+- **YOLOv8**: A state-of-the-art machine vision system for fast object detection.
 - **Roboflow**: For dataset preprocessing and model deployment.
 - **MNIST Dataset**: Modified to create custom datasets for training the model.
 
